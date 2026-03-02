@@ -43,7 +43,15 @@ This project demonstrates product management, cart functionality, quantity updat
 - Success confirmation UI
 
 ---
+## 📸 Screenshots
 
-## 🗂 Project Structure
-(images/cart.png)
-(images/details.png)
+### 🏠 Home Page
+![Home Screenshot](images/home.png)
+
+### 🛒 Cart Page
+![Cart Screenshot](images/cart.png)
+
+### 📦 Product Details Page
+![Details Screenshot](images/details.png)
+
+![mongoDB](images/Mongojs.png)
