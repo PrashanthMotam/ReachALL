@@ -46,7 +46,7 @@ This project demonstrates product management, cart functionality, quantity updat
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Screenshot](images/home.png)
+![Home Screenshot](images/Home.png)
 
 ### 🛒 Cart Page
 ![Cart Screenshot](images/cart.png)
